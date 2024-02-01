@@ -1,4 +1,5 @@
 #! /bin/sh
 
 cd /ctf
-/usr/local/bin/python jail.py
+bash jail.sh 2>/dev/null
+
